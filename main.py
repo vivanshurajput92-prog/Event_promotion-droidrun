@@ -17,6 +17,7 @@ async def main():
    - Open the app "Google Sheets".
    - Tap on the file named "contacts".
    - Locate the next unread name in the list (e.g., Start at Cell A2).
+   - if unable to find the cell click on the three dots then search by the cell name.
    - Copy the text of that cell to the clipboard.
    - Action: Store this name in memory as .
 
